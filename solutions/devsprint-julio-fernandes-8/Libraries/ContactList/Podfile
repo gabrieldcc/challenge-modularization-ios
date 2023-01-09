@@ -12,6 +12,7 @@ target 'ContactList' do
 
   pod 'SwiftLint'
   pod 'SwiftGen', '6.5.1'
+  pod 'Components', :path => 'Libraries/Components'
 
   target 'ContactListTests' do
       #pod 'Dependency', '~> 1.0.0'

@@ -28,6 +28,6 @@ Pod::Spec.new do |spec|
     'ContactList/**/*.strings'
   ]
 
-  #spec.dependency 'Dependency', '~> 1.0.0'
+  #spec.dependency 'Components'
 
 end
